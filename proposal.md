@@ -18,6 +18,8 @@ Extension to the previous [Barren plateau result](https://arxiv.org/abs/1803.111
  Jonathan Frankle, Michael Carbin
  Who will win the lottery next week?
  
+ * [The Break-Even Point on Optimization Trajectories of Deep Neural Networks](https://arxiv.org/abs/2002.09572) Stanislaw Jastrzebski, Maciej Szymczak, Stanislav Fort, Devansh Arpit, Jacek Tabor, Kyunghyun Cho, Krzysztof Geras
+ 
  ## Archive
  
   * [Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412v1) Guillaume Lample, François Charton
